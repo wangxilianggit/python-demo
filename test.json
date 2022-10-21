@@ -1,0 +1,18 @@
+{
+    "purchaseDeliverUuid": "2fe5c4dba0b84ef6ade8339142aeca91",
+    "pathList": [
+        "https://delitest.obs.cn-north-1.myhuaweicloud.com/FILEa3f0de9137f249a1acb7574d3dcc384d.png"
+    ],
+    "oper": null,
+    "autoDelivered": true,
+    "purchaseDeliverCompleteDTO": {
+        "oper": "高正松",
+        "purchaseDeliverUuid": "2fe5c4dba0b84ef6ade8339142aeca91",
+        "signer": null,
+        "signerRemark": null,
+        "operationType": false,
+        "rejectReason": null,
+        "isReject": null,
+        "logisticsSignTime": null
+    }
+}
